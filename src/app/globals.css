@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 255, 255, 255;
+  --background-start-rgb: 10, 10, 15;
+  --background-end-rgb: 5, 5, 8;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+  min-height: 100vh;
+}
+
+/* 自定义滚动条 */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0a0a0f;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #d4af37;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #b8963a;
+}
+
+/* 卡片悬停效果 */
+.cocktail-card {
+  transition: all 0.3s ease;
+}
+
+.cocktail-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 20px 40px rgba(212, 175, 55, 0.15);
+}
+
+/* 渐变文字效果 */
+.gradient-text {
+  background: linear-gradient(135deg, #d4af37 0%, #f4e4bc 50%, #d4af37 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* 玻璃拟态效果 */
+.glass-effect {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}

@@ -1,0 +1,236 @@
+{
+  "cocktails": [
+    {
+      "id": "mojito",
+      "name": "Mojito",
+      "nameZh": "莫吉托",
+      "tagline": "古巴的清凉传奇",
+      "image": "https://images.unsplash.com/photo-1551538827-9c037cb4f32a?w=800&q=80",
+      "color": "#a8e6cf",
+      "strength": "中等",
+      "taste": "清新甜美",
+      "origin": "古巴",
+      "history": "莫吉托起源于16世纪的古巴，最初是一种名为\"El Draque\"的饮品，以英国海盗弗朗西斯·德雷克爵士命名。传说德雷克的船员用当地的甘蔗烈酒、酸橙、薄荷和糖来治疗坏血病和痢疾。到了20世纪，这款鸡尾酒在哈瓦那的La Bodeguita del Medio酒吧发扬光大，据说海明威是这里的常客，他曾写道：\"我的莫吉托在Bodeguita，我的Daiquiri在Floridita。\"",
+      "ingredients": [
+        { "name": "白朗姆酒", "amount": "60ml", "note": "推荐使用古巴风格的轻质朗姆" },
+        { "name": "新鲜青柠汁", "amount": "30ml", "note": "约1个青柠" },
+        { "name": "白砂糖", "amount": "2茶匙", "note": "或使用糖浆15ml" },
+        { "name": "新鲜薄荷叶", "amount": "6-8片", "note": "留几片装饰用" },
+        { "name": "苏打水", "amount": "适量", "note": "用于补满杯子" },
+        { "name": "碎冰", "amount": "适量", "note": "" }
+      ],
+      "steps": [
+        {
+          "step": 1,
+          "title": "准备薄荷",
+          "description": "将薄荷叶放入高球杯底部，加入白砂糖和少量青柠汁。"
+        },
+        {
+          "step": 2,
+          "title": "轻捣薄荷",
+          "description": "用捣棒轻轻按压薄荷叶，释放香气但不要捣碎，避免苦味。"
+        },
+        {
+          "step": 3,
+          "title": "加入朗姆酒",
+          "description": "倒入白朗姆酒和剩余的青柠汁，轻轻搅拌使糖溶解。"
+        },
+        {
+          "step": 4,
+          "title": "加冰和苏打水",
+          "description": "加入碎冰至杯口，倒入苏打水补满，轻轻搅拌。"
+        },
+        {
+          "step": 5,
+          "title": "装饰",
+          "description": "用薄荷枝和青柠片装饰，插入吸管即可享用。"
+        }
+      ],
+      "tips": "薄荷要轻捣，只需释放油脂，过度捣碎会产生苦味。使用新鲜薄荷和现榨青柠汁是关键。"
+    },
+    {
+      "id": "old-fashioned",
+      "name": "Old Fashioned",
+      "nameZh": "古典鸡尾酒",
+      "tagline": "鸡尾酒之王",
+      "image": "https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=800&q=80",
+      "color": "#d4a574",
+      "strength": "强烈",
+      "taste": "醇厚复杂",
+      "origin": "美国",
+      "history": "古典鸡尾酒被认为是最古老的鸡尾酒之一，可追溯到19世纪初期。1806年，《The Balance and Columbian Repository》杂志首次将\"鸡尾酒\"定义为\"一种由烈酒、苦精、水和糖混合的刺激性饮料\"——这正是古典鸡尾酒的基本配方。到了19世纪末，随着新式花哨鸡尾酒的流行，怀旧的饮客开始要求\"用老式方法\"调制的鸡尾酒，Old Fashioned之名由此而来。",
+      "ingredients": [
+        { "name": "波本威士忌", "amount": "60ml", "note": "也可使用黑麦威士忌" },
+        { "name": "安格斯图拉苦精", "amount": "2-3滴", "note": "经典选择" },
+        { "name": "方糖", "amount": "1块", "note": "或糖浆10ml" },
+        { "name": "橙皮", "amount": "1片", "note": "用于装饰和增添风味" },
+        { "name": "樱桃", "amount": "1颗", "note": "Luxardo樱桃为佳" },
+        { "name": "大冰块", "amount": "1块", "note": "融化慢，保持酒体" }
+      ],
+      "steps": [
+        {
+          "step": 1,
+          "title": "处理方糖",
+          "description": "将方糖放入古典杯中，滴上苦精，加入少量水（约1茶匙）。"
+        },
+        {
+          "step": 2,
+          "title": "捣碎糖块",
+          "description": "用捣棒将方糖捣碎并与苦精、水混合均匀。"
+        },
+        {
+          "step": 3,
+          "title": "加入威士忌",
+          "description": "倒入波本威士忌，轻轻搅拌使糖完全溶解。"
+        },
+        {
+          "step": 4,
+          "title": "加入大冰块",
+          "description": "放入一块大冰块，继续轻轻搅拌约30秒使酒液冷却。"
+        },
+        {
+          "step": 5,
+          "title": "装饰",
+          "description": "用手指挤压橙皮释放精油，皮面朝下在杯口转一圈，放入杯中。加入樱桃装饰。"
+        }
+      ],
+      "tips": "使用大冰块可以减慢融化速度，避免过度稀释。橙皮的精油是这杯酒的灵魂，不要省略这一步。"
+    },
+    {
+      "id": "martini",
+      "name": "Dry Martini",
+      "nameZh": "干马天尼",
+      "tagline": "优雅的代名词",
+      "image": "https://images.unsplash.com/photo-1575023782549-62ca0d244b39?w=800&q=80",
+      "color": "#e8e8e8",
+      "strength": "强烈",
+      "taste": "干爽清冽",
+      "origin": "美国",
+      "history": "马天尼的起源众说纷纭，最流行的说法是它诞生于19世纪末的旧金山。早期的马天尼其实是甜的，使用甜味美思。随着时间推移，干型马天尼逐渐流行，美思的用量也越来越少。丘吉尔曾开玩笑说他的马天尼只需要\"看一眼苦艾酒的瓶子\"。而詹姆斯·邦德的\"摇匀，不要搅拌\"更让这款鸡尾酒成为流行文化的标志。",
+      "ingredients": [
+        { "name": "金酒", "amount": "60ml", "note": "伦敦干金酒为经典选择" },
+        { "name": "干味美思", "amount": "10ml", "note": "可根据喜好调整用量" },
+        { "name": "橄榄", "amount": "1-3颗", "note": "或柠檬皮" },
+        { "name": "冰块", "amount": "适量", "note": "用于搅拌冷却" }
+      ],
+      "steps": [
+        {
+          "step": 1,
+          "title": "冷却酒杯",
+          "description": "将马天尼杯放入冰箱冷冻，或用冰块和水填满杯子冷却。"
+        },
+        {
+          "step": 2,
+          "title": "准备调酒杯",
+          "description": "在调酒杯中加入大量冰块。"
+        },
+        {
+          "step": 3,
+          "title": "加入酒液",
+          "description": "先倒入干味美思，转动杯子使美思包裹冰块，然后倒入金酒。"
+        },
+        {
+          "step": 4,
+          "title": "搅拌",
+          "description": "用吧匙快速搅拌约30秒，直到杯壁起霜，酒液充分冷却。"
+        },
+        {
+          "step": 5,
+          "title": "过滤与装饰",
+          "description": "将冷却的马天尼杯中的冰水倒掉，用滤冰器将酒液滤入杯中，用鸡尾酒签串上橄榄放入杯中。"
+        }
+      ],
+      "tips": "经典马天尼应该搅拌而非摇晃，搅拌能保持酒液清澈。酒杯一定要预先冷却，这是保持冰凉口感的关键。"
+    },
+    {
+      "id": "negroni",
+      "name": "Negroni",
+      "nameZh": "尼格罗尼",
+      "tagline": "完美的苦甜平衡",
+      "image": "https://images.unsplash.com/photo-1551751299-1b51cab2694c?w=800&q=80",
+      "color": "#c0392b",
+      "strength": "强烈",
+      "taste": "苦甜复杂",
+      "origin": "意大利",
+      "history": "尼格罗尼诞生于1919年的佛罗伦萨Caffè Casoni酒吧。卡米洛·尼格罗尼伯爵（Count Camillo Negroni）是一位经常光顾的常客，某天他要求调酒师Fosco Scarselli将他最爱的Americano鸡尾酒中的苏打水换成金酒，使其更加强劲。调酒师照做了，并用橙皮代替柠檬皮来区分这款新饮品。这个简单的改动创造了一款传奇鸡尾酒。",
+      "ingredients": [
+        { "name": "金酒", "amount": "30ml", "note": "伦敦干金酒" },
+        { "name": "甜味美思", "amount": "30ml", "note": "红色甜美思" },
+        { "name": "金巴利", "amount": "30ml", "note": "Campari苦酒" },
+        { "name": "橙皮", "amount": "1片", "note": "用于装饰" },
+        { "name": "冰块", "amount": "适量", "note": "" }
+      ],
+      "steps": [
+        {
+          "step": 1,
+          "title": "准备杯子",
+          "description": "在古典杯中放入大冰块。"
+        },
+        {
+          "step": 2,
+          "title": "加入材料",
+          "description": "将金酒、甜味美思和金巴利等比例倒入杯中。"
+        },
+        {
+          "step": 3,
+          "title": "搅拌",
+          "description": "用吧匙轻轻搅拌约10秒，使酒液混合并冷却。"
+        },
+        {
+          "step": 4,
+          "title": "装饰",
+          "description": "用刀削下一片橙皮，挤压释放精油，皮面朝下擦拭杯口，然后放入杯中。"
+        }
+      ],
+      "tips": "尼格罗尼的精髓在于1:1:1的完美比例。金巴利的苦味是这款酒的灵魂，初次尝试可能会觉得苦，但这正是它的魅力所在。"
+    },
+    {
+      "id": "margarita",
+      "name": "Margarita",
+      "nameZh": "玛格丽特",
+      "tagline": "墨西哥的热情",
+      "image": "https://images.unsplash.com/photo-1556855810-ac404aa91e85?w=800&q=80",
+      "color": "#f1c40f",
+      "strength": "中等",
+      "taste": "酸甜清爽",
+      "origin": "墨西哥",
+      "history": "玛格丽特的起源有多种传说。最浪漫的版本是1948年墨西哥社交名媛Margarita Sames在阿卡普尔科的派对上发明了这款酒，并以自己的名字命名。另一个版本是1941年墨西哥调酒师Don Carlos Orozco为一位名叫Margarita Henkel的顾客创作。无论起源如何，这款结合龙舌兰、橙味利口酒和青柠汁的鸡尾酒已成为全球最受欢迎的鸡尾酒之一。",
+      "ingredients": [
+        { "name": "龙舌兰酒", "amount": "50ml", "note": "使用100%龙舌兰的Blanco或Reposado" },
+        { "name": "君度或橙皮力娇酒", "amount": "25ml", "note": "Triple Sec类橙味利口酒" },
+        { "name": "新鲜青柠汁", "amount": "25ml", "note": "约1个青柠" },
+        { "name": "盐", "amount": "适量", "note": "用于杯口" },
+        { "name": "青柠角", "amount": "1块", "note": "用于装饰" },
+        { "name": "冰块", "amount": "适量", "note": "" }
+      ],
+      "steps": [
+        {
+          "step": 1,
+          "title": "准备盐边杯",
+          "description": "用青柠角擦拭玛格丽特杯或古典杯的杯口，然后将杯口倒扣在盐盘中，使盐均匀粘附在杯口。"
+        },
+        {
+          "step": 2,
+          "title": "准备摇酒壶",
+          "description": "在摇酒壶中加入大量冰块。"
+        },
+        {
+          "step": 3,
+          "title": "加入材料",
+          "description": "将龙舌兰酒、橙皮力娇酒和新鲜青柠汁倒入摇酒壶。"
+        },
+        {
+          "step": 4,
+          "title": "摇晃",
+          "description": "盖上壶盖，用力摇晃约15秒，直到壶身起霜。"
+        },
+        {
+          "step": 5,
+          "title": "过滤与装饰",
+          "description": "将酒液滤入准备好的杯中（可加入新冰块），用青柠角装饰杯口。"
+        }
+      ],
+      "tips": "使用新鲜青柠汁是关键，瓶装青柠汁会让这杯酒大打折扣。盐边是经典做法，但也可以根据个人喜好选择不加盐。"
+    }
+  ]
+}
